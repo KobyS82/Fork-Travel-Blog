@@ -1,5 +1,6 @@
 const Sequelize = require('sequelize');
 require('dotenv').config();
+const DB_NAME = 'travel_db';
 
 // let sequelize = process.env.JAWSDB_URL;
 
